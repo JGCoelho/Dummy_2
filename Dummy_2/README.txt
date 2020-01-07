@@ -30,14 +30,12 @@ Dumbbell - Ep 12
 Fate Zero - Ep 02
 Kimetsu No Yaiba - Ep 26
 Kemono Michi - Ep 08
-Beastars - Ep 12
-Vinland Saga - Ep 01
-No Guns Life - Ep 12
-Devilman Crybaby - Ep 02
-Kill La Kill - Ep 19
+
 
 Adicionei alguns mangás
 
 One Punch Manga - Cap 109
 Steel Run Manga - Cap 32
 Komi-san Manga - Cap 88
+
+Tirei alguns animes e dei commit

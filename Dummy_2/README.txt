@@ -36,3 +36,8 @@ No Guns Life - Ep 12
 Devilman Crybaby - Ep 02
 Kill La Kill - Ep 19
 
+Adicionei alguns mangás
+
+One Punch Manga - Cap 109
+Steel Run Manga - Cap 32
+Komi-san Manga - Cap 88
